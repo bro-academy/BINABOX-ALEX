@@ -1,5 +1,5 @@
 # Binabox - homework project
 
-Student: 
+Student: Alexandros Petrides
 
-Mentor: 
+Mentor: Valentyn.di
