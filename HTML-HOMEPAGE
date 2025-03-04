@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML + CSS</title>
+    <link rel="stylesheet" href="styles.css" />
+    
+  </head>
+  <body>
+    <header class="header">
+
+
+      <a href="index.html">Binabox</a>
+      
+      <nav class="header-links">
+        <ul class="header-links__list">
+          <li class="header-links__list-item">
+            <a class="header-links__list-item__Home">Home</a>
+          </li>
+          <li class="header-links__list-item">
+            <a class="header-links__list-item__Blog">Blog</a>
+          </li>
+          <li class="header-links__list-item">
+            <a class="header-links__list-item__Catalog">Catalog</a>
+          </li>
+          <li class="header-links__list-item">
+            <a class="header-links__list-item__Contact-us">Contact us</a>
+          </li>
+        </ul>
+      </nav>
+     <div>
+      <button class="button button--secondary header__button">Discord</button>
+      <button type="button button--primary header__button">Connect</button>
+     </div>
+    </header>
+    <main>
+      <div>
+        <p>WITH <span>BINABOX</span> EXPLORE NFT COLLECTION</p>
+        <p>
+          We are the best way to check your rarity of NFT
+          <span>collection</span>
+        </p>
+        <div>
+          <div>2240+ <span>Total item</span></div>
+          <div>1000+ <span>profiles whitelisted</span></div>
+        </div>
+        <div>
+          <button>Connect Wallet</button>
+          <button>Whitelist Now</button>
+        </div>
+        <img src="" alt="" />
+      </div>
+      <div>
+        <p>
+          <span>Catalog</span><hr/>
+        </p>
+        <button>See All</button>
+        <button></button>
+        <button></button>
+      </div>
+      <div>
+        <div>
+
+          <article class="product-card">
+          <span class="label--default">new</span>
+          <img class="product-card__image" alt="" />
+          <p class="product-card__price">$199</p>
+          <p class="product-card__name">Name product</p>
+        </div>
+
+        <article class="product-card">
+          <span class="label--default">new</span>
+          <img class="product-card__image" alt="" />
+          <p class="product-card__price">$199</p>
+          <p class="product-card__name">Name product</p>
+        </article>
+        </div>
+        <div>
+
+          <article class="product-card">
+          <span class="label--upgraded product-card__label">sold out</span>
+          <img class="product-card__image" alt="" />
+          <p class="product-card__price">$199</p>
+          <p class="product-card__name">Name product</p>
+          </article>
+        </div>
+        <div>
+          <article class="product-card">
+            <span class="label--upgraded product-card__label">sold out</span>
+            <img class="product-card__image" alt="" />
+            <p class="product-card__price">$199</p>
+            <p class="product-card__name">Name product</p>
+            </article>
+        </div>
+        <div>
+          <article class="product-card">
+            <span class="label--upgraded product-card__label">sold out</span>
+            <img class="product-card__image" alt="" />
+            <p class="product-card__price">$199</p>
+            <p class="product-card__name">Name product</p>
+            </article>
+        </div>
+      </div>
+    <section class="Blog">
+      <h2 class="Blog__title">Our blog</h2>
+      <article class="">
+        <img src="" alt="">
+         <p>
+           <span> Tony ferquson </span>
+           <span> 20 Jun 2022 </span>
+          </p>
+          <p>
+            Sonic live
+            <br>
+            One September 22, 2021 A volutpat nulla eros, nulla ultrices nec nulla imperdiet...
+          </p>
+          <button>Read more</button>
+       </article>
+    </section>
+    <section>
+      <h2> About us</h2>
+      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat</p>
+      <ol>
+        <li>
+          <p>
+            <span>01 High Quality</span>
+            <br>
+            <span>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li>
+          <p>
+            <span>02 Big Collection</span>
+            <br>
+            <span>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li>
+          <p>
+            <span>03 Top Resource</span>
+            <br>
+            <span>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li>
+          <p>
+            <span>04 Big Community</span>
+            <br>
+            <span>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+      </ol>
+      <button>Read more</button>
+    </section>
+    <section class="Team">
+      <h3 class="Team__title">Our Team</h3>
+      <img class="Team__image" src ="logo" alt="Jason smith">
+      <p class="Team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="Team__position">Co-founder</span>
+      </p>
+      <ul class="Team__social-list">
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Discord">Discord</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Facebook">Facebook</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Telegram">Telegram</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Linked-in">Linked in</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Instagram">Instagram</a>
+        </li>
+      </ul>
+
+      <img class="Team__image" src ="logo" alt="Jason smith">
+      <p class="Team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="Team__position">Co-founder</span>
+      </p>
+      <ul class="Team__social-list">
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Discord">Discord</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Facebook">Facebook</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Telegram">Telegram</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Linked-in">Linked in</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Instagram">Instagram</a>
+        </li>
+      </ul>
+      <img class="Team__image" src ="logo" alt="Jason smith">
+      <p class="Team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="Team__position">Co-founder</span>
+      </p>
+      <ul class="Team__social-list">
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Discord">Discord</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Facebook">Facebook</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Telegram">Telegram</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Linked-in">Linked in</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Instagram">Instagram</a>
+        </li>
+      </ul>
+      <img class="Team__image" src ="logo" alt="Jason smith">
+      <p class="Team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="Team__position">Co-founder</span>
+      </p>
+      <ul class="Team__social-list">
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Discord">Discord</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Facebook">Facebook</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Telegram">Telegram</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Linked-in">Linked in</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Instagram">Instagram</a>
+        </li>
+      </ul>
+      <img class="Team__image" src ="logo" alt="Jason smith">
+      <p class="Team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="Team__position">Co-founder</span>
+      </p>
+      <ul class="Team__social-list">
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Discord">Discord</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Facebook">Facebook</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Telegram">Telegram</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Linked-in">Linked in</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Instagram">Instagram</a>
+        </li>
+      </ul>
+      <img class="Team__image" src ="logo" alt="Jason smith">
+      <p class="Team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="Team__position">Co-founder</span>
+      </p>
+      <ul class="Team__social-list">
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Discord">Discord</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Facebook">Facebook</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Telegram">Telegram</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Linked-in">Linked in</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Instagram">Instagram</a>
+        </li>
+      </ul>
+      <img class="Team__image" src ="logo" alt="Jason smith">
+      <p class="Team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="Team__position">Co-founder</span>
+      </p>
+      <ul class="Team__social-list">
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Discord">Discord</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Facebook">Facebook</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Telegram">Telegram</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Linked-in">Linked in</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Instagram">Instagram</a>
+        </li>
+      </ul>
+      <img class="Team__image" src ="logo" alt="Jason smith">
+      <p class="Team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="Team__position">Co-founder</span>
+      </p>
+      <ul class="Team__social-list">
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Discord">Discord</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Facebook">Facebook</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Telegram">Telegram</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Linked-in">Linked in</a>
+        </li>
+        <li class="Teams__social-list-item">
+          <a class="Teams__social-list-item__Instagram">Instagram</a>
+        </li>
+      </ul>
+      </p>
+    </section>
+    <section class="faqs">
+      <h3 class="faqs__title">FAQS</h3>
+      <details>
+        <summary class="faqs__summary">What are the NFTs ?</summary>
+        <p class="faqs__text">Urna vitae erat et lacus, consectetur ac nulla vestibulum lobortis. Nulla dapibus urna volutpat venenatis, risus faucibus.</p>
+      </details>
+      <details>
+        <summary class="faqs__summary">>How do i get NFTs ?</summary>
+        <p class="faqs__text">>TEXT</p>
+      </details>
+      <details>
+        <summary class="faqs__summary">>How can we buy your NFTs ?</summary>
+        <p class="faqs__text">>TEXT</p>
+      </details>
+      <details>
+        <summary class="faqs__summary">>Who are the team behind the project ?</summary>
+        <p class="faqs__text">>TEXT</p>
+      </details>
+    </section>
+    </main>
+    <footer class="footer">
+      <h4>BINABOX</h4>
+      <p>
+        We are the best way to check the rarity of NFT collection.
+      </p>
+      <div class="footer__list-wrapper">
+        <p class="footer__list-title">Subscribe</p>
+        <ul class="footer__list">
+          <li class="footer__list-item">
+            <a class="footer__link">Home</a>
+          </li>
+          <li>
+            <a class="footer__link">Blog</a>
+          </li>
+          <li>
+            <a class="footer__link">Catalog</a>
+          </li>
+          <li>
+           <a class="footer__link">Contact us</a>
+             </li>
+        </ul>
+      </div>
+      <p class="footer__list-title">Company</p>
+      <ul>
+          <li>
+            <a class="footer__link">Terms Canditions</a>
+          </li>
+          <li>
+            <a class="footer__link">Privacy Policy</a>
+          </li>
+          <li>
+           <a class="footer__link">Whitepaper</a>
+             </li>
+             <li>
+              <a class="footer__link">Help centre</a>
+             </li>
+        </ul>
+    </footer>
+  </body>
+</html>
