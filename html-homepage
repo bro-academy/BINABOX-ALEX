@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>mainpage</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <a href="index.html">Binabox</a>
+      
+      <nav>
+        <ul>
+          <li>
+            <a href="">Home</a>
+          </li>
+          <li>
+            <a href="">Contact</a>
+          </li>
+          <li>
+            <a href="">Blog</a>
+          </li>
+          <li>
+            <a href="">Catalog</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div>
+        <p>WITH <span>BINABOX</span> EXPLORE NFT COLLECTION</p>
+        <p>
+          We are the best way to check your rarity of NFT
+          <span>collection</span>
+        </p>
+        <div>
+          <div>2240+ <span>Total item</span></div>
+          <div>1000+ <span>profiles whitelisted</span></div>
+        </div>
+        <div>
+          <button>Connect Wallet</button>
+          <button>Whitelist Now</button>
+        </div>
+        <img src="" alt="" />
+      </div>
+      <div>
+        <p>
+          <span>Catalog</span><hr/>
+        </p>
+        <button>See All</button>
+        <button></button>
+        <button></button>
+      </div>
+      <div>
+        <div>
+          <span>new</span>
+          <img src="" alt="" />
+          <p>$199</p>
+          <p>Name product</p>
+        </div>
+        <div>
+          <span>new</span>
+          <img src="" alt="" />
+          <p>$199</p>
+          <p>Name product</p>
+        </div>
+        <div>
+          <span>new</span>
+          <img src="" alt="" />
+          <p>$199</p>
+          <p>Name product</p>
+        </div>
+        <div>
+          <span>new</span>
+          <img src="" alt="" />
+          <p>$199</p>
+          <p>Name product</p>
+        </div>
+        <div>
+          <span>new</span>
+          <img src="" alt="" />
+          <p>$199</p>
+          <p>Name product</p>
+        </div>
+      </div>
+    <section>
+      <h2>Our blog</h2>
+      <article>
+        <img src="" alt="">
+         <p>
+           <span> Tony ferquson </span>
+           <span> 20 Jun 2022 </span>
+          </p>
+          <p>
+            Sonic live
+            <br>
+            One September 22, 2021 A volutpat nulla eros, nulla ultrices nec nulla imperdiet...
+          </p>
+          <button>Read more</button>
+       </article>
+    </section>
+    <section class="About-us">
+      <h2 class="About-us__title"> About us</h2>
+      <p class="About-us__description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat</p>
+      <ol class="About-us__list">
+        <li class="About-us__list-item">
+          <p>
+            <span>01 High Quality</span>
+            <br>
+            <span>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li>
+          <p>
+            <span>02 Big Collection</span>
+            <br>
+            <span>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li>
+          <p>
+            <span>03 Top Resource</span>
+            <br>
+            <span>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li>
+          <p>
+            <span>04 Big Community</span>
+            <br>
+            <span>Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+      </ol>
+      <button>Read more</button>
+    </section>
+    <section>
+      <h3>Our Team</h3>
+      <img src="logo" alt="Jason smith">
+      <p>
+        <strong>Jason Smith</strong>
+        <br>
+        <span>Co-founder</span>
+      </p>
+      <ul>
+        <li>
+          <a href="">Discord</a>
+        </li>
+        <li>
+          <a href="">Facebook</a>
+        </li>
+        <li>
+          <a href="">Telegram</a>
+        </li>
+        <li>
+          <a href="">Linked in</a>
+        </li>
+        <li>
+          <a href="">Instagram</a>
+        </li>
+      </ul>
+      <p>
+        <strong>Jason Smith</strong>
+        <br>
+        <span>Co-founder</span>
+      </p>
+      <img src="logo" alt="Jason smith">
+      <ul>
+        <li>
+          <a href="">Discord</a>
+        </li>
+        <li>
+          <a href="">Facebook</a>
+        </li>
+        <li>
+          <a href="">Telegram</a>
+        </li>
+        <li>
+          <a href="">Linked in</a>
+        </li>
+        <li>
+          <a href="">Instagram</a>
+        </li>
+      </ul>
+      <p>
+        <strong>Jason Smith</strong>
+        <br>
+        <span>Co-founder</span>
+      </p>
+      <img src="logo" alt="Jason smith">
+      <ul>
+        <li>
+          <a href="">Discord</a>
+        </li>
+        <li>
+          <a href="">Facebook</a>
+        </li>
+        <li>
+          <a href="">Telegram</a> 
+        </li>
+        <li>
+          <a href="">Linked in</a>
+        </li>
+        <li>
+          <a href="">Instagram</a>
+        </li>
+      </ul>
+      <p>
+        <strong>Jason Smith</strong>
+        <br>
+        <span>Co-founder</span>
+      </p>
+      <img src="logo" alt="Jason smith">
+      <ul>
+        <li>
+          <a href="">Discord</a>
+        </li>
+        <li>
+          <a href="">Facebook</a>
+        </li>
+        <li>
+          <a href="">Telegram</a> 
+        </li>
+        <li>
+          <a href="">Linked in</a>
+        </li>
+        <li>
+          <a href="">Instagram</a>
+        </li>
+      </ul>
+      <p>
+        <strong>Jason Smith</strong>
+        <br>
+        <span>Co-founder</span>
+      </p>
+      <img src="logo" alt="Jason smith">
+      <ul>
+        <li>
+          <a href="">Discord</a>
+        </li>
+        <li>
+          <a href="">Facebook</a>
+        </li>
+        <li>
+          <a href="">Telegram</a> 
+        </li>
+        <li>
+          <a href="">Linked in</a>
+        </li>
+        <li>
+          <a href="">Instagram</a>
+        </li>
+      </ul>
+      <p>
+        <strong>Jason Smith</strong>
+        <br>
+        <span>Co-founder</span>
+      </p>
+      <img src="logo" alt="Jason smith">
+      <ul>
+        <li>
+          <a href="">Discord</a>
+        </li>
+        <li>
+          <a href="">Facebook</a>
+        </li>
+        <li>
+          <a href="">Telegram</a> 
+        </li>
+        <li>
+          <a href="">Linked in</a>
+        </li>
+        <li>
+          <a href="">Instagram</a>
+        </li>
+      </ul>
+      <p>
+        <strong>Jason Smith</strong>
+        <br>
+        <span>Co-founder</span>
+      </p>
+      <img src="logo" alt="Jason smith">
+      <ul>
+        <li>
+          <a href="">Discord</a>
+        </li>
+        <li>
+          <a href="">Facebook</a>
+        </li>
+        <li>
+          <a href="">Telegram</a> 
+        </li>
+        <li>
+          <a href="">Linked in</a>
+        </li>
+        <li>
+          <a href="">Instagram</a>
+        </li>
+      </ul>
+      <p>
+        <strong>Jason Smith</strong>
+        <br>
+        <span>Co-founder</span>
+      </p>
+    </section>
+    <section>
+      <h3>FAQS</h3>
+      <details>
+        <summary>What are the NFTs ?</summary>
+        <p>Urna vitae erat et lacus, consectetur ac nulla vestibulum lobortis. Nulla dapibus urna volutpat venenatis, risus faucibus.</p>
+      </details>
+      <details>
+        <summary>How do i get NFTs ?</summary>
+        <p>TEXT</p>
+      </details>
+      <details>
+        <summary>How can we buy your NFTs ?</summary>
+        <p>TEXT</p>
+      </details>
+      <details>
+        <summary>Who are the team behind the project ?</summary>
+        <p>TEXT</p>
+      </details>
+    </section>
+    </main>
+    <footer>
+      <h4>BINABOX</h4>
+      <p>
+        We are the best way to check the rarity of NFT collection.
+      </p>
+      <div>
+        <p>Subscribe</p>
+        <ul>
+          <li>
+            <a href="">Home</a><br>
+          </li>
+          <li>
+            <a href="">Blog</a><br>
+          </li>
+          <li>
+            <a href="">Catalog</a><br>
+          </li>
+          <li>
+            <a href="">Contact us</a>
+          </li>
+        </ul>
+      </div>
+      <p>Company</p>
+      <ul>
+        <li>
+          <a href="">Terms Condition</a><br>
+        </li>
+        <li>
+          <a href="">Privacy Policy</a>
+        </li>
+        <li>
+          <a href="">Whitepaper</a>
+        </li>
+        <li>
+          <a href="">help centre</a>
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html>
+
