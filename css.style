@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>mainpage</title>
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="styles.css" />
+    
+  </head>
+  <body>
+    <header class="header">
+      <a href="index.html" class="logo">
+        <img class="logo__image" src="logo.svg" alt="binabox" class="logo__icon">
+      </a>
+      <nav class="top-menu">
+        <ul class="top-menu__list">
+          <li class="top-menu__item">
+            <a href="#" class="top-menu__link">Home</a>
+          </li>
+          <li class="top-menu__item">
+            <a href="#" class="top-menu__link">Blog</a>
+          </li>
+          <li class="top-menu__item">
+            <a href="#" class="top-menu__link">Catalog</a>
+          </li>
+          <li class="top-menu__item">
+            <a href="#" class="top-menu__link">Contact us</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main__content">
+      <div class="header">
+        <p class="header__title">WITH <span class="text__deco text__deco--modi">BINABOX</span> EXPLORE NFT COLLECTION</p>
+        <p class="header__description">
+          We are the best way to check your rarity of NFT
+          <span class="header__description header__description--highlighted">collection</span>
+        </p>
+        <div class="subheader">
+          <div class="subheader__top">2240+ <span class="subheader__count">Total item</span></div>
+          <div class="subheader__bottom">1000+ <span class="subheader__count subheader__count--highlighted">profiles whitelisted</span></div>
+        </div>
+        <div class="first-button">
+          <button class="button button--primary">Connect Wallet</button>
+          <button class="button button--secondary">Whitelist Now</button>
+        </div>
+        <img src="" alt="" />
+      </div>
+      <div class="catalog">
+        <p class="catalog__title catalog__title--highlighted">Catalog<hr/>
+        </p>
+        <button class="see-all">See All</button>
+        <button></button>
+        <button class="style-button"></button>
+      </div>
+        <div class="cards">
+          <span class="cards__label">new</span>
+          <img class="cards__image" src="" alt="card image">
+          <p class="cards__prize">$199</p>
+          <p class="cards__content">Name product</p>
+        </div>
+       
+          <div class="cards">
+            <span class="cards__label">new</span>
+            <img class="cards__image" src="" alt="card image">
+            <p class="cards__prize">$199</p>
+            <p class="cards__content">Name product</p>
+          </div>
+            <div class="cards">
+              <span class="cards__label">new</span>
+              <img class="cards__image" src="" alt="card image">
+              <p class="cards__prize">$199</p>
+              <p class="cards__content">Name product</p>
+        </div>
+        <div class="cards">
+          <span class="cards__label">new</span>
+          <img class="cards__image" src="" alt="card image">
+          <p class="cards__prize">$199</p>
+          <p class="cards__content">Name product</p>
+        </div>
+        <div class="cards">
+          <span class="cards__label">new</span>
+          <img class="cards__image" src="" alt="card image">
+          <p class="cards__prize">$199</p>
+          <p class="cards__content">Name product</p>
+      </div>
+    <section class="blog">
+      <h2 class="blog__header">Our blog</h2>
+      <article class="blog__post">
+        <img class="blog__image" src="" alt="blog image">
+
+         <p class="blog__intro">
+           <span class="blog__content"> Tony ferquson </span>
+           <span class="blog__content"> 20 Jun 2022 </span>
+          </p>
+          <p class="blog__body">
+            Sonic live
+            <br>
+            One September 22, 2021 A volutpat nulla eros, nulla ultrices nec nulla imperdiet...
+          </p>
+          <button class="button button--outline">Read more</button>
+       </article>
+    </section>
+    <section class="about-us">
+      <h2 class="about-us__title"> About us</h2>
+      <p class="about-us__description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occae cat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est laborum velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat</p>
+      <ol class="about-us__list">
+        <li class="about-us__list-item">
+          <p class="about-us__body">
+            <span class="about-us__body--bold">01 High Quality</span>
+            <br>
+            <span class="about-us__body-text">Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li class="about-us__list-item">
+          <p class="about-us__body">
+            <span class="about-us__body--bold">02 Big Collection</span>
+            <br>
+            <span class="about-us__body-text">Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li class="about-us__list-item">
+          <p class="about-us__body">
+            <span class="about-us__body--bold">03 Top Resource</span>
+            <br>
+            <span class="about-us__body-text">Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+        <li class="about-us__list-item">
+          <p class="about-us__body">
+            <span class="about-us__body--bold">04 Big Community</span>
+            <br>
+            <span class="about-us__body-text">Lorem Ipsum is simply dummy text of the printing and Ipsum typesetting industry.</span>
+          </p>
+        </li>
+      </ol>
+      <button class="button button--outline">Read more</button>
+    </section>
+
+    <div class="our-team__member">
+      <h3 class="our-team__title">Our Team</h3>
+      <img class="our-team__image" src="" alt="Jason Smith">
+      <p class="our-team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="our-team__rank">Co-founder</span>
+      </p>
+      <ul class="our-team__list">
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Discord</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Facebook</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Telegram</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Linked in</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Instagram</a>
+        </li>
+      </ul>
+
+      <p class="our-team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="our-team__rank">Co-founder</span>
+      </p>
+      <img class="our-team__image" src="" alt="Jason Smith">
+
+      <ul class="our-team__list">
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Discord</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Facebook</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Telegram</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Linked in</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Instagram</a>
+        </li>
+      </ul>
+      
+      <p class="our-team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="our-team__rank">Co-founder</span>
+      </p>
+      <img class="our-team__image" src="" alt="Jason Smith">
+        <ul class="our-team__list">
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Discord</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Facebook</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Telegram</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Linked in</a>
+        </li>
+        <li class="our-team__item">
+          <a href="#" class="our-team__link">Instagram</a>
+        </li>
+      </ul>
+      <p class="our-team__name">
+        <strong>Jason Smith</strong>
+        <br>
+        <span class="our-team__rank">Co-founder</span>
+      </p>
+      <img class="our-team__image" src="" alt="Jason Smith">
+      <ul class="our-team__list">
+      <li class="our-team__item">
+        <a href="#" class="our-team__link">Discord</a>
+      </li>
+      <li class="our-team__list-item">
+        <a href="#" class="our-team__link">Facebook</a>
+      </li>
+      <li class="our-team__list-item">
+        <a href="#" class="our-team__link">Telegram</a>
+      </li>
+      <li class="our-team__item">
+        <a href="#" class="our-team__link">Linked in</a>
+      </li>
+      <li class="our-team__item">
+        <a href="#" class="our-team__link">Instagram</a>
+      </li>
+    </ul>
+    <p class="our-team__name">
+      <strong>Jason Smith</strong>
+      <br>
+      <span class="our-team__rank">Co-founder</span>
+    </p>
+      <img class="our-team__image" src="" alt="Jason Smith">
+      <ul class="our-team__list">
+      <li class="our-team__item">
+        <a href="#" class="our-team__link">Discord</a>
+      </li>
+      <li class="our-team__item">
+        <a href="#" class="our-team__link">Facebook</a>
+      </li>
+      <li class="our-team__item">
+        <a href="#" class="our-team__link">Telegram</a>
+      </li>
+      <li class="our-team__item">
+        <a href="#" class="our-team__link">Linked in</a>
+      </li>
+      <li class="our-team__item">
+        <a href="#" class="our-team__link">Instagram</a>
+      </li>
+    </ul>
+    <p class="our-team__name">
+      <strong>Jason Smith</strong>
+      <br>
+      <span class="our-team__rank">Co-founder</span>
+    </p>
+    <img class="our-team__image" src="" alt="Jason Smith">
+    <ul class="our-team__list">
+    <li class="our-team__item">
+      <a href="#" class="our-team__link">Discord</a>
+    </li>
+    <li class="our-team__item">
+      <a href="#" class="our-team__link">Facebook</a>
+    </li>
+    <li class="our-team__list-item">
+      <a href="#" class="our-team__link">Telegram</a>
+    </li>
+    <li class="our-team__item">
+      <a href="#" class="our-team__link">Linked in</a>
+    </li>
+    <li class="our-team__item">
+      <a href="#" class="our-team__link">Instagram</a>
+    </li>
+  </ul>
+  <p class="our-team__name">
+    <strong>Jason Smith</strong>
+    <br>
+    <span class="our-team__rank">Co-founder</span>
+  </p>
+  <img class="our-team__image" src="" alt="Jason Smith">
+  <ul class="our-team__list">
+  <li class="our-team__item">
+    <a href="#" class="our-team__link">Discord</a>
+  </li>
+  <li class="our-team__item">
+    <a href="#" class="our-team__link">Facebook</a>
+  </li>
+  <li class="our-team__item">
+    <a href="#" class="our-team__link">Telegram</a>
+  </li>
+  <li class="our-team__item">
+    <a href="#" class="our-team__link">Linked in</a>
+  </li>
+  <li class="our-team__item">
+    <a href="#" class="our-team__link">Instagram</a>
+  </li>
+</ul>
+</div>
+
+    <section class="faqs">
+      <h3 class="faqs__title">FAQS</h3>
+      <details class="faqs__details">
+        <summary class="faqs__summary">What are the NFTs ?</summary>
+        <div class="faqs__content">Urna vitae erat et lacus, consectetur ac nulla vestibulum lobortis. Nulla dapibus urna volutpat venenatis, risus faucibus.</div>     
+      </details>
+
+      <details class="faqs__details">
+        <summary class="faqs__summary">How do i get NFTs ?</summary>
+        <div class="faqs__content">TEXT</div>     
+      </details>
+
+      <details class="faqs__details">
+        <summary class="faqs__summary">How can we buy your NFTs ?</summary>
+        <div class="faqs__content">TEXT</div>     
+        </details>
+
+      <details class="faqs__details">
+        <summary class="faqs__summary">Who are the team behind the project ?</summary>
+        <div class="faqs__content">TEXT
+        </div>
+      </details>
+    </section>
+    </main>
+
+    <footer class="footer_blog">
+      <h4 class="footer__header">BINABOX</h4>
+      <p class="footer__description">
+        We are the best way to check the rarity of NFT collection.
+      </p>
+
+      <div class="footer__links">
+        <p class="footer__title">Subscribe</p>
+        <ul class="footer__list">
+          <li class="footer__item">
+            <a href="" class="footer__link">Home</a><br>
+          </li>
+          <li class="footer__item">
+            <a href="" class="footer__link">Blog</a><br>
+          </li>
+          <li class="footer__item">
+             <a href="" class="footer__link">Catalog</a><br>
+          </li>
+          <li class="footer__item">
+            <a href="" class="footer__link">Contact us</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer__links">
+      <p class="footer__title">Company</p>
+      <ul class="footer__list">
+        <li class="footer__item">
+          <a href="" class="footer__link">Terms Condition</a><br>
+        </li>
+        <li class="footer__item">
+          <a href="" class="footer__link">Privacy Policy</a>
+        </li>
+        <li class="footer__item">
+          <a href="" class="footer__link">Whitepaper</a>
+        </li>
+        <li class="footer__item">
+          <a href="" class="footer__link">Help Centre</a>
+        </li>
+      </ul>
+    </div>
+    </footer>
+  </body>
+</html>
+
